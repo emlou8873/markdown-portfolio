@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Cats 🐈
+2. Coffee ☕
+3. Travel ✈️
+4. Baked Goods 🍪
